@@ -36,3 +36,19 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.ex-item{
+    box-shadow: 10px 10px 40px yellow;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-left: 10px solid;
+  
+}
+.experiences{
+    background-image: url(showoff/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+  
+}
